@@ -1,7 +1,8 @@
 # [GDSC KU] AI Junior Session 
 [한국어](README.md)
 
-<span style="color:#FF0000">G</span><span style="color:#4285F4">D</span><span style="color:#F4B400">S</span><span style="color:#0F9D58">C</span> KU AI Study Session(2023.10.6-2023.11.8)의 관리를 위한 리포지토리입니다. 강의 자료 업로드 및 과제 제출을 목적으로 사용합니다. 스터디는 <a href="http://cs231n.stanford.edu/">CS231n</a>의 자료를 기반으로 운영되며, 딥러닝의 기본적인 원리 및 간단한 구조에 대한 이해를 목표로 합니다.
+<span style="color:#FF0000">G</span><span style="color:#4285F4">D</span><span style="color:#F4B400">S</span><span style="color:#0F9D58">C</span> KU AI Study Session(2023.10.6-2023.11.8)의 관리를 위한 리포지토리입니다. 강의 자료 업로드 및 과제 제출을 목적으로 사용합니다. 
+스터디는 <a href="http://cs231n.stanford.edu/">CS231n</a>의 자료를 기반으로 운영되며, 딥러닝의 기본적인 원리 및 간단한 구조에 대한 이해를 목표로 합니다.
 
 
 ## 리포지토리 활용 방법
