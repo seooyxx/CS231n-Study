@@ -11,6 +11,7 @@ NOTE. 모든 작업은 Fork를 한 My Repository에서, 자신의 Branch에서�
 1. Original Repository를 My Repository로 Fork합니다.
 2. 과제 코드를 작성 및 수정합니다.
 3. 과제 완료 후 PR을 요청합니다.
+
 ![study_cycle](https://github.com/seooyxx/CS231n-Study/assets/112859650/d41c5ec8-297a-4a8c-b67c-013b7ea8aa38)
 
 
