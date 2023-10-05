@@ -27,7 +27,7 @@ Comming soon~
 |||CNN Architectures [[slide](http://cs231n.stanford.edu/slides/2017/cs231n_2017_lecture9.pdf)] [[lecture](https://www.youtube.com/watch?v=DAOcjicFr1Y&list=PL3FW7Lu3i5JvHM8ljYj-zLfQRF3EO8sYv)]||
 |||Detection and Segmentation [[slide](http://cs231n.stanford.edu/slides/2017/cs231n_2017_lecture11.pdf)] [[lecture](https://www.youtube.com/watch?v=nDPWywWRIRo&list=PL3FW7Lu3i5JvHM8ljYj-zLfQRF3EO8sYv)]||
 |11.18(수)|18:00~20:00|Generative Models [[slide](http://cs231n.stanford.edu/slides/2017/cs231n_2017_lecture13.pdf)] [[lecture](https://www.youtube.com/watch?v=5WoItGTWV54&list=PL3FW7Lu3i5JvHM8ljYj-zLfQRF3EO8sYv)]||
-|||Introduction to Transformers [[lecture]([https://www.youtube.com/watch?v=lvoHnicueoE&list=PL3FW7Lu3i5JvHM8ljYj-zLfQRF3EO8sYv](https://www.youtube.com/watch?v=XfpMkf4rD6E))]||
+|||Introduction to Transformers [[lecture](https://www.youtube.com/watch?v=XfpMkf4rD6E)]||
 
 
 ## 참고 자료
